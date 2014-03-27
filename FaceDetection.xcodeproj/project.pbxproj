@@ -44,6 +44,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		5954421218E41CC100FB4FA1 /* faces */ = {isa = PBXFileReference; lastKnownFileType = folder; path = faces; sourceTree = "<group>"; };
 		5988994D18D8DAE3005931F1 /* FaceDetection */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = FaceDetection; sourceTree = BUILT_PRODUCTS_DIR; };
 		5988995018D8DAE3005931F1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		5988995218D8DAE3005931F1 /* FaceDetection.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = FaceDetection.1; sourceTree = "<group>"; };
@@ -103,6 +104,7 @@
 		5988994418D8DAE3005931F1 = {
 			isa = PBXGroup;
 			children = (
+				5954421218E41CC100FB4FA1 /* faces */,
 				5988995918D8DB2F005931F1 /* OpenCV Frameworks */,
 				5988994F18D8DAE3005931F1 /* FaceDetection */,
 				5988994E18D8DAE3005931F1 /* Products */,
@@ -333,6 +335,7 @@
 				5988995818D8DAE3005931F1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
